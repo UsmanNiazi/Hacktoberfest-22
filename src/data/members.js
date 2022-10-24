@@ -201,6 +201,18 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/zubair-naeem-8037b6237",
     },
   },
+  {
+    img: `${imgPath}/AZNA.jpeg`,
+    firstname: "AZNA",
+    lastname: "Ijaz",
+    team: "Front-end ",
+    city: "LAHORE",
+    socialUrls: {
+    //  facebook: "",
+      instagram: "https://www.instagram.com/axna_ijaz/?next=%2F",
+      linkedIn: "https://www.linkedin.com/in/azna-ijaz-666210217/",
+    },
+  },
 ];
 
 export default members;
