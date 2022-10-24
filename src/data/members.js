@@ -11,7 +11,22 @@ const members = [
       instagram: "https://intagram.com/_usmanniazi",
       linkedIn: "https://linkedin.com/in/usmanniazi99",
     },
-  },{
+  }
+  ,
+  {
+    img: `${imgPath}/Moiz.jfif`,
+    firstname: "Moiz",
+    lastname: "Zubair",
+    team: "Cloud",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/profile.php?id=100009776715802",
+      instagram: "https://www.instagram.com/zubair.moiz/",
+      linkedIn: "https://www.linkedin.com/in/mzubair-132909/",
+    },
+  }
+  ,
+  {
     img: `${imgPath}/Muzzammil.jpg`,
     firstname: "Muhammad",
     lastname: "Muzzammil",
