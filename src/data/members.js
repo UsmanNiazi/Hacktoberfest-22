@@ -201,6 +201,18 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/zubair-naeem-8037b6237",
     },
   },
+  {
+    img: `${imgPath}/MuhammadBilal.jpeg`,
+    firstname: "Muhammad",
+    lastname: "Bilal",
+    team: "MLSA-Islamabad",
+    city: "Attock",
+    socialUrls: {
+      facebook: "https://www.facebook.com/MuhammadBilalAwanMB",
+      instagram: "https://www.instagram.com/m.bilal.awaan/",
+      linkedIn: "https://www.linkedin.com/in/muhammadbilal-mb",
+    },
+  }
 ];
 
 export default members;
