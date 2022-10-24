@@ -201,6 +201,18 @@ const members = [
       linkedIn: "https://www.linkedin.com/in/zubair-naeem-8037b6237",
     },
   },
+  {
+    img: `${imgPath}/waheed.jpeg`,
+    firstname: "Waheed Ahmad",
+    lastname: "Khan",
+    team: "MERN Stack",
+    city: "Peshawar",
+    socialUrls: {
+      facebook: "https://www.facebook.com/waheed.ahmad.370177",
+      instagram: "https://www.instagram.com/waheed_a_khan",
+      linkedIn: "https://www.linkedin.com/in/waheed-ahmad-khan-3570491ba/",
+    },
+  }
 ];
 
 export default members;
