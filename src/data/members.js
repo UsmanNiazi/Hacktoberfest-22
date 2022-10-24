@@ -190,6 +190,18 @@ const members = [
     },
   },
   {
+    img: `${imgPath}/kashir.jpg`,
+    firstname: "Kashir",
+    lastname: "Hasnain",
+    team: "SQA & AWS",
+    city: "Rawalpindi",
+    socialUrls: {
+      facebook: "https://www.facebook.com/kashirdotcom/",
+      instagram: "https://intagram.com/kashirdotcom/",
+      linkedIn: "https://linkedin.com/kashirdotcom",
+    },
+  },
+  {
     img: `${imgPath}/zubair.jpeg`,
     firstname: "Zubair",
     lastname: "Naeem",
