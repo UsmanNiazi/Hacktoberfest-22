@@ -17,7 +17,7 @@ const members = [
     img: `${imgPath}/Moiz.jfif`,
     firstname: "Moiz",
     lastname: "Zubair",
-    team: "Cloud",
+    team: "Bytewise Fellow",
     city: "Islamabad",
     socialUrls: {
       facebook: "https://www.facebook.com/profile.php?id=100009776715802",
