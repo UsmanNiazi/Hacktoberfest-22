@@ -93,6 +93,28 @@ const members = [
       linkedIn: "https://linkedin.com/in/abdur-rehman-ab0394247",
     },
   },
+  {
+    img: `${imgPath}/daoud.jpg`,
+    firstname: "Daoud",
+    lastname: "Hussain",
+    team: "FrontEnd Developer",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com/nadan.daoud",
+      instagram: "https://www.instagram.com/daoud_huxxain/",
+      linkedIn: "https://www.linkedin.com/in/daoud-hussain/",
+    },
+    img: `${imgPath}/Kashir.jpg`,
+    firstname: "Kashir",
+    lastname: "Hasnain",
+    team: "AWS Cloud and SQA",
+    city: "Attock",
+    socialUrls: {
+      facebook: "https://www.facebook.com/kashirdotcom",
+      instagram: "https://intagram.com/kashirdotcom",
+      linkedIn: "https://linkedin.com/in/kashirdotcom",
+    },
+  },
     {
     img: `${imgPath}/abubakarsattar.jpeg`,
     firstname: "Abubakar",
