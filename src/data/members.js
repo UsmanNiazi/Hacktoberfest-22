@@ -200,6 +200,21 @@ const members = [
       instagram: "https://www.instagram.com/zubair____31/",
       linkedIn: "https://www.linkedin.com/in/zubair-naeem-8037b6237",
     },
+
+
+    {
+      img: `${imgPath}/madina.jpeg`,
+      firstname: "Madina",
+      lastname: "khokhar",
+      team: "frontend",
+      city: "Islamabad",
+      socialUrls: {
+        
+        linkedIn: "linkedin.com/in/madina-khokhar-0a83b6247",
+      },
+  
+    
+   
   },
 ];
 
