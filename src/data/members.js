@@ -205,7 +205,7 @@ const members = [
     img: `${imgPath}/MuhammadBilal.jpeg`,
     firstname: "Muhammad",
     lastname: "Bilal",
-    team: "MLSA Islamabad",
+    team: "MLSA-Islamabad",
     city: "Attock",
     socialUrls: {
       facebook: "https://www.facebook.com/MuhammadBilalAwanMB",
