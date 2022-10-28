@@ -1,6 +1,18 @@
 const imgPath = "/assets/members";
 const members = [
   {
+    img: `${imgPath}/Zain.jpg`,
+    firstname: "Zain Ali",
+    lastname: "Shah",
+    team: "Computer Engineer",
+    city: "Islamabad",
+    socialUrls: {
+      facebook: "https://www.facebook.com",
+      instagram: "https://intagram.com",
+      linkedIn: "https://linkedin.com/ShawFromAttock",
+    },
+  },
+  {
     img: `${imgPath}/rings.jpeg`,
     firstname: "ring",
     lastname: "abu",
