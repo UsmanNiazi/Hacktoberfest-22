@@ -488,6 +488,18 @@ const members = [{
   },
 }
 
+, {img: `${imgPath}/kamran.png`,
+  firstname: "Kamran",
+  lastname: "Jesar",
+  team: "Back-end",
+  city: "Islamabad",
+  socialUrls: {
+    gmail: "jesarkamran@gmail.com",
+    // instagram: "https://www.instagram.com",
+    linkedIn: "https://www.linkedin.com/in/jesarkamran/",
+  },
+}
+
 ];
 
 
